@@ -1,2 +1,2 @@
 # DebugVSCode
-launch.json, settings.json, tasks.json
+launch.json, settings.json, tasks.json, c_cpp_properties.json
