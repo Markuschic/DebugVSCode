@@ -1,4 +1,4 @@
-# c_cpp_properties.json
+#c_cpp_properties.json
 
 {
     "configurations": [
@@ -18,7 +18,8 @@
 }
 
 
-# launch.json
+
+#launch.json
 
 {
     "configurations": [
@@ -70,7 +71,9 @@
     ] 
 }
 
- # settings.json
+
+
+ #settings.json
 
 {
   "files.associations": {
@@ -130,7 +133,9 @@
   "python-envs.defaultEnvManager": "ms-python.python:system"
 }
 
-# tasks.json
+
+
+#tasks.json
 
 {
     "version": "2.0.0",
